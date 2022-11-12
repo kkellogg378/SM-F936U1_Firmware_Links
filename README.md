@@ -1,5 +1,5 @@
 # SM-F936U1_Firmware_Links
-My collection of firmware links intercepted with HttpsCanary for the unlocked US Galaxy Fold 4
+My collection of firmware links intercepted with HttpsCanary for the unlocked US Galaxy Fold 4 (XAR)
 
 One UI 5 Betas:
 
