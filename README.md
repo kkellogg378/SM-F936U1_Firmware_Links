@@ -14,3 +14,7 @@ One UI 5 (Official Releases):
 F936U1UEU1BVK3 / F936U1OYM1BVK3 / F936U1UEU1BVK3:
 
 http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/c30b0104ff7f4519ab154487d668d391.bin?px-time=63bd0095&px-hash=7fdd9048aebdbc49976dc45fca7c76ff&px-wid=3713183-WSA221111060715&px-wctime=2022-11-11%2006:07:15&px-unum=&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+5936U1UEU1BVKV / F936U1OYM1BVKB / F936U1UEU1BVKB:
+
+http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/1c7e43e202cc4e7393a1f0f99774ae9f.bin?px-time=63c45c8d&px-hash=9eba482f040c324bdb955dfd407dc41e&px-wid=9378384-WSA221206200531&px-wctime=2022-12-06%2020:05:31&px-nb=UGtezEZ854jbmFcvWGxLEA==
