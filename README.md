@@ -22,3 +22,7 @@ http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/1c7e43e202cc4
 F936U1UES1BWA2 / F936U1OYM1BWA2 / F936U1UES1BWA2: (Jan 2023)
 
 http://fota-ll-dn.ospserver.net:80/firmware/XAR/SM-F936U1/3068706b6c2c4a3b83f419dd7d62935a.bin?e=1678690861&h=9a8bd3d28d8125adbbcaeedcb7af9ff1&px-wid=7200103-WCA230201070047&px-wctime=2023-02-01%2007:00:47&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+F936U1UEUICWAC / F936U1OYM1CWAC / F936U1UEU1CWAC: (Feb 2023) One UI 5.1
+
+http://seccfl-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/79dad6607d8841ec9b10977643fd9cd1.bin?verify=1677098663-3chOkluEqm5ARBLynhFy42NeBKZOtTkSsNSlTR82ZxI%3D&px-wid=6624517-WCA230222204422&px-wctime=2023-02-22%2020:44:22&px-nb=UGtezEZ854jbmFcvWGxLEA==
