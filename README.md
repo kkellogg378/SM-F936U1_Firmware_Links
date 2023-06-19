@@ -40,3 +40,7 @@ http://fota-ll-dn.ospserver.net:80/firmware/XAR/SM-F936U1/c3a3a32c96e54b428b431c
 F936U1UES2CWD7 / F936U1OYM2CWD7 / F936U1UES2CWD7: (May 2023)
 
 http://seccfl-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/042d45a02f9940efbce20832517f5152.bin?verify=1683642451-FsSW3dX1s9VSvYN2ctOyd9ph7zwvxmCb6QMVKBkQ4fg%3D&px-wid=8356662-WCC230509142730&px-wctime=2023-05-09%2014:27:30&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+F936U1UES2CWE1 / F936U1OYM2CWE1 / F936U1UES2CWE1: (June 2023)
+
+http://seccfl-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/ae7a60b8905d47269602086cddfefaaf.bin?verify=1686279828-zcUAiZ%2Bcxu6DGcCP0EtCMkfOFb3BZqkuHA3umBQqpJM%3D&px-wid=5571956-WCB230609030347&px-wctime=2023-06-09%2003:03:47&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
