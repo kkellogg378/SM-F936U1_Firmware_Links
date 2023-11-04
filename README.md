@@ -72,3 +72,7 @@ http://seccfl-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/4ff169d0b706405681
 F936U1UEU3ZWJ4 / F936U1OYM3ZWJ4 / F936U1UEU3ZWJ4: One UI 6 Beta (Oct 24) (October 2023)
 
 http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/8b6b7e74b8fe41e98178a1fed53c0894.bin?px-time=656cd1ae&px-hash=0078b0e5f2f0cc63bca509707d9b735b&px-wid=0258619-WSA231024190620&px-wctime=2023-10-24%2019:06:20&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+F936U1UEU3ZWJJ / F936U1OYM3ZWJJ / F936U1UEU3ZWJJ: One UI 6 Beta (Nov 2) (November 2023)
+
+http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/42492b8c1f58446889d3fb0763cc04f4.bin?px-time=6578ceb8&px-hash=18f6131cdf88cca22336fa75d76e5493&px-wid=0398826-WSA231102212054&px-wctime=2023-11-02%2021:20:54&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
