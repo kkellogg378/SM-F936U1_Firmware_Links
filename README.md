@@ -76,3 +76,7 @@ http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/8b6b7e74b8fe4
 F936U1UEU3ZWJJ / F936U1OYM3ZWJJ / F936U1UEU3ZWJJ: One UI 6 Beta (Nov 2) (November 2023)
 
 http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/42492b8c1f58446889d3fb0763cc04f4.bin?px-time=6578ceb8&px-hash=18f6131cdf88cca22336fa75d76e5493&px-wid=0398826-WSA231102212054&px-wctime=2023-11-02%2021:20:54&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+F936U1UEU3EWL1/ F936U1OYM3EWL1/ F936U1UEU3EWL1: One UI 6 (Official Release)
+
+http://fota-secure-dn.ospserver.net:80/firmware/XAR/SM-F936U1/nspx/1c46fb2113f745bfb9b2b94271d634ae.bin?px-time=65b14856&px-hash=d35f520ea95f89259687b9cf9d9e0c48&px-wid=3030731-WSA231215172645&px-wctime=2023-12-15%2017:26:45&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
