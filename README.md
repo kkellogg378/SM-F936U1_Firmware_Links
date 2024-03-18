@@ -88,3 +88,7 @@ http://fota-s3-dn.ospserver.net:80/firmware/XAR/SM-F936U1/f3f189588c474ab097e6ba
 F936U1UES4EXAD / F936U1OYM4EXAD / F936U1UES4EXAD: One UI 6 (February 2024)
 
 http://seccfl-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/0fbceb2f244142b29ca1870c04496027.bin?verify=1709057302-m6sqt8IIdjtVVqJI0Eh4R8ceOC%2FVF%2FjwKdNEMgF4QHk%3D&px-wid=4128736-WCC240227180821&px-wctime=2024-02-27%2018:08:21&px-cc=XAR&px-mn=SM-F936U1&px-nb=UGtezEZ854jbmFcvWGxLEA==
+
+F936U1UES4EXBD / F936U1OYM4EXBD / F936U1UES4EXBD: One UI 6 (March 2024)
+
+http://secak-fota-dn.samsungdm.com:80/firmware/XAR/SM-F936U1/9c3817d4f9bc4a4ab4c0663092005992.bin?px-wid=0519957-WCB240317085803&px-wctime=2024-03-17%2008:58:03&px-cc=XAR&px-mn=SM-F936U1&__gda__=1714121885_eff5358027b3648e8b2cbcf8b0bad8c7&px-nb=UGtezEZ854jbmFcvWGxLEA==
